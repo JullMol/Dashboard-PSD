@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+librosa
+soundfile
+scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
+streamlit
+shap
+kagglehub
+pillow
+numba
+joblib
